@@ -10,7 +10,7 @@ public class Cliente {
 	
 	
 /* ~~~~~~~~~~~~~~~~~~~~
- 		ATRIBUTOS
+       ATRIBUTOS
    ~~~~~~~~~~~~~~~~~~ */
 	@Id
 	@GeneratedValue
@@ -26,7 +26,7 @@ public class Cliente {
 		
 
 /* ~~~~~~~~~~~~~~~~~~~~~~
-	  GETTERS & SETTERS
+	 GETTERS & SETTERS
    ~~~~~~~~~~~~~~~~~~~~~~ */
 		
 	public int getId() {
@@ -74,7 +74,7 @@ public class Cliente {
 		
 		
 /* ~~~~~~~~~~~~~~~~~~~~
-	 	ToSTRING
+	   ToSTRING
    ~~~~~~~~~~~~~~~~~~~~ */	
 		
 	@Override
